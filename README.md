@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KAUTUBH</h1>
+<h1 align="center">Hi 👋, I'm Kaustubh</h1>
 <h3 align="center">A passionate FULL STACK developer from India , dedicated problem solver</h3>
 
 - 🔭 I’m currently working on **data structures**
