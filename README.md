@@ -14,7 +14,10 @@
 </p>
 
 <h2 align="center">Leetcode Info<h2>
-  
+<p align="center">
+  <a href="https://leetcode.com/Kaustubh_Arya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="100" width="100" /></a>
+  <a href="https://leetcode.com/Kaustubh_Arya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="jyot" height="100" width="100" /></a>
+</p>
 
 <p align="center">
 
